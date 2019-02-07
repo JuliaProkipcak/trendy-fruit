@@ -21,3 +21,35 @@ html {
   display: block;
   width: 100%;
 }
+
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
+.melon {
+  font-family: "Rammetto One", cursive;
+}
+
+.star {
+  font-family: "Gravitas One", cursive;
+}
+
+.persimmon {
+  font-family: Comfortaa, cursive;
+}
+
+body {
+  margin: 0;
+}
+
+.pink {
+  background-color: #e97065;
+}
+
+.yellow {
+  background-color: #fbd25e;
+}
+
+.orange {
+  background-color: #e86033;
+}
